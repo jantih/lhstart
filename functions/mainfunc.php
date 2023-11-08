@@ -1,0 +1,3 @@
+<?php
+$SITENAME = "J.Tihula";
+?>
